@@ -1,7 +1,7 @@
 body{
   display:flex;
   justify-content:space-around;
-  background:#a5f78e63;
+  background:#fffffff;
 }
 
 img{
@@ -16,12 +16,12 @@ img{
   padding:20px;
  }
 aside{
-  background:#9dd5f46b;
+  background:#ffffff;
 }
 .main{
   border:1px solid black;
   margin:10px;
-  background:#b9f9f5;
+  background:#ffffff;
 }
  .detail{
   margin:20px;
