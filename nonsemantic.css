@@ -1,7 +1,7 @@
 body{
   display:flex;
   justify-content:space-around;
-  background:#a5f78e63;
+  background:#ffffff;
 }
 img{
   width:200px;
@@ -16,7 +16,7 @@ table{
   margin:10px;
   width:300px; 
   padding:20px;
-   background:#b9f9f5;
+   background:#ffffff;
  }
 .side>div{
   margin:20px;
@@ -24,7 +24,7 @@ table{
 .main{
   border:1px solid black;
   margin:10px;
-  background:#9dd5f46b;
+  background:#ffffff;
  
 }
  .detail{
